@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(0, 217, 255);
+}
+h2{
+    color: rgb(255, 0, 0);
+    text-shadow: 2px 2px rgb(207, 141, 218);
+    font-size: 35px;
+    text-align: center;
+    padding-bottom: 5%;
+}
+#grad1{
+    height:80px;
+    width: 98%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    margin-top:0%;
+    margin-bottom: 3%;
+    background-image: linear-gradient(rgb(249, 246, 246),rgb(108, 233, 125),rgb(149, 149, 254));
+}
+#grad2{
+    height: 80px;
+    width: 98%;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    margin-top:0%;
+    background-image: radial-gradient(rgb(226, 78, 78),rgb(186, 186, 62),grey);
+}
